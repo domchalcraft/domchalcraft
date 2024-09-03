@@ -3,7 +3,7 @@
 
 A fullstack developer with a focus on backend development, SysAdmin and DevOps. The main languages I use profesionally are Ruby and Ruby on Rails for web development and Ansible/Terraform for provisioning, configuration and infrastructure control. I use this account for personal projects while keeping my professional Github account separate.
 
-- 📫 You can find my contact details in my [CV](https://github.com/domchalcraft/domchalcraft/blob/main/DChalcraft.CV.pdf)
+- 📫 You can find my contact details in my [CV](https://github.com/domchalcraft/domchalcraft/blob/main/DChalcraftCV.pdf)
 - My professional Github profile can be found [here](https://github.com/DChalcraft)
 
 ---
