@@ -8,6 +8,10 @@ A fullstack developer with a focus on backend development, SysAdmin and DevOps. 
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=domchalcraft)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 #### Some languages I've used
 
 [![Key Skills](https://skillicons.dev/icons?i=ruby,rails,nginx,mysql,postgresql,redis,mongodb,docker,aws,gcp,linux,ansible,git,githubactions,html,css,react,js,ts,bootstrap,matlab,latex&theme=light)](https://skillicons.dev)
