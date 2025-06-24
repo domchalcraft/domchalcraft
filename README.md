@@ -16,7 +16,7 @@ A fullstack developer with a focus on backend development, SysAdmin and DevOps. 
 
 <details>
 <summary>:zap: Github stats</summary>
-  [<img align="left" alt="Doms Github Stats" src="https://github-readme-stats-ctjt.vercel.app/api?username=domchalcraft&include_all_commits=true)(https://github.com/anuraghazra/github-readme-stats"</>
+  <img align="left" alt="Doms Github Stats" src="https://github-readme-stats-ctjt.vercel.app/api?username=domchalcraft&include_all_commits=true)(https://github.com/anuraghazra/github-readme-stats")</>
 </details>
 
 <!---
